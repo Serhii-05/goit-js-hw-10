@@ -1,4 +1,4 @@
-import fetchCountries from './fetchCountries';
+import fetchCountri from './fetchCountri';
 import debounce from 'lodash.debounce';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
